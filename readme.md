@@ -4,7 +4,7 @@
     <br>
 </h1>
 <p align="center"> Visualize o projeto:
-    EM BREVE
+    https://goharajunior.github.io/lp-banco-neon/
 </p>
 
 <img src=".github/desktop.gif" alt="Demonstração do Projeto" height="330">&nbsp;&nbsp;
