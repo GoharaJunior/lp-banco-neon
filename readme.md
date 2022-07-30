@@ -7,7 +7,7 @@
     EM BREVE
 </p>
 
-<img src=".github/desktop.gif" alt="Demonstração do Projeto" height="340">&nbsp;&nbsp;
+<img src=".github/desktop.gif" alt="Demonstração do Projeto" height="330">&nbsp;&nbsp;
 <img src=".github/mobile.gif" alt="Demonstração do Projeto" height="350">
 <br>
 <br>
