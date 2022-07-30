@@ -1,0 +1,1 @@
+"use strict";var swiper=new Swiper(".slide-depoimentos",{slidesPerView:3,spaceBetween:32,pagination:{el:".s-depoimentos .top .swiper-pagination",clickable:!0},breakpoints:{320:{slidesPerView:1.3,spaceBetween:16},600:{slidesPerView:2.3,spaceBetween:15},1200:{slidesPerView:3,spaceBetween:32}}});AOS.init({duration:1e3,once:!0});
