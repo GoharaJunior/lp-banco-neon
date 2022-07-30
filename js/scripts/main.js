@@ -53,3 +53,15 @@ function fixedMenu() {
 }
 
 document.addEventListener('scroll', fixedMenu);
+
+// Menu mobile
+const btnMenu = document.getElementById('js-btn-menu-mobile');
+const overlayMenu = document.querySelector('.js-overlay');
+
+function openMenuMobile(event) {
+    event.preventDefault();
+    document.documentElement.classList.toggle('menu-opened');
+}
+
+btnMenu.addEventListener('click', openMenuMobile);
+overlayMenu.addEventListener('click', openMenuMobile);
